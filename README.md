@@ -1,1 +1,13 @@
-# Meret-APK
+# MERET — Android App
+
+**Latest release:** `1.92.1`
+
+## Install on Android
+
+Scan this QR code with your Android camera to download the latest APK directly:
+
+![Download MERET Android APK](./MERET-download-qr.png)
+
+Or tap the direct download link:
+
+**[Download MERET.apk (1.92.1)](https://github.com/Kylew-95/Meret-APK/releases/latest/download/MERET.apk)**
